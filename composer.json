@@ -1,0 +1,12 @@
+{
+    "name": "vendor/xcash",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/Helpers/helpers.php"
+        ]
+    },
+    "require": {}
+}
